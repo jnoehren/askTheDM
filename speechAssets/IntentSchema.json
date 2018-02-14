@@ -3,15 +3,63 @@
     {
       "slots": [
         {
-          "name": "Spell",
-          "type": "LIST_OF_SPELLS"
-        },
-        {
-          "name": "Attribute",
-          "type": "LIST_OF_ATTRIBUTES"
+          "name": "Condition",
+          "type": "LIST_OF_CONDITIONS"
         }
       ],
-      "intent": "SpellsIntent"
+      "intent": "ConditionsIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Sides",
+          "type": "LIST_OF_DICE_SIDES"
+        },
+        {
+          "name": "Modifier",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Status",
+          "type": "LIST_OF_STATUS"
+        }
+      ],
+      "intent": "DiceIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Level",
+          "type": "LIST_OF_EXHAUSTION_LEVELS"
+        }
+      ],
+      "intent": "ExhaustionLevelIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Feat",
+          "type": "LIST_OF_FEATS"
+        },
+        {
+          "name": "FeatAttribute",
+          "type": "LIST_OF_FEAT_ATTRIBUTES"
+        }
+      ],
+      "intent": "FeatsIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Index",
+          "type": "LIST_OF_INDEX"
+        }
+      ],
+      "intent": "IndexIntent"
     },
     {
       "slots": [
@@ -29,15 +77,6 @@
     {
       "slots": [
         {
-          "name": "Condition",
-          "type": "LIST_OF_CONDITIONS"
-        }
-      ],
-      "intent": "ConditionsIntent"
-    },
-    {
-      "slots": [
-        {
           "name": "Spell",
           "type": "LIST_OF_SPELLS"
         }
@@ -47,43 +86,43 @@
     {
       "slots": [
         {
-          "name": "Level",
-          "type": "LIST_OF_EXHAUSTION_LEVELS"
+          "name": "Spell",
+          "type": "LIST_OF_SPELLS"
+        },
+        {
+          "name": "SlotLevel",
+          "type": "LIST_OF_SLOT_LEVELS"
         }
       ],
-      "intent": "ExhaustionLevelIntent"
+      "intent": "SpellDamageIntent"
     },
     {
       "slots": [
         {
-          "name": "Feats",
-          "type": "LIST_OF_FEATS"
+          "name": "Spell",
+          "type": "LIST_OF_SPELLS"
         },
         {
-          "name": "FeatsAttr",
-          "type": "LIST_OF_FEATS_ATTRIBUTES"
+          "name": "SlotLevel",
+          "type": "LIST_OF_SLOT_LEVELS"
         }
       ],
-      "intent": "FeatsIntent"
+      "intent": "SpellHealIntent"
     },
     {
-    	"slots": [
-       {
-         "name": "Quantity",
-         "type": "AMAZON.NUMBER"
-       },
-       {
-         "name": "Sides",
-         "type": "AMAZON.NUMBER"
-       },
-       {
-         "name": "Modifier",
-         "type": "AMAZON.NUMBER"
-       },
-     ],
-    	"intent": "DiceIntent"
-    },
+      "slots": [
         {
+          "name": "Spell",
+          "type": "LIST_OF_SPELLS"
+        },
+        {
+          "name": "Attribute",
+          "type": "LIST_OF_SPELL_ATTRIBUTES"
+        }
+      ],
+      "intent": "SpellsIntent"
+    },
+    {
       "intent": "Unhandled"
     },
     {

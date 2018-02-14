@@ -1,0 +1,1059 @@
+ConditionsIntent what is {Condition}
+ConditionsIntent whats {Condition}
+ConditionsIntent what does being {Condition} mean
+ConditionsIntent what does {Condition} mean
+ConditionsIntent what are the effects of {Condition}
+ConditionsIntent lookup {Condition}
+ConditionsIntent tell me about {Condition}
+ConditionsIntent I forget what {Condition} is
+ConditionsIntent I forget what {Condition} does
+ConditionsIntent I forget what the conditions of {Condition} are
+ConditionsIntent I forget what the conditions of being {Condition} are
+ConditionsIntent I forget what the conditions of the {Condition} condition are
+ConditionsIntent I forget what the conditions of having the {Condition} condition are
+ConditionsIntent to get information on {Condition}
+ConditionsIntent to get information about {Condition}
+ConditionsIntent to get info on {Condition}
+ConditionsIntent to get information on the {Condition} condition
+ConditionsIntent to get information about the {Condition} condition
+ConditionsIntent to get info on the {Condition} condition
+ConditionsIntent to get the effects of {Condition}
+ConditionsIntent to get the effects of the {Condition} condition
+ConditionsIntent get information on {Condition}
+ConditionsIntent get information about {Condition}
+ConditionsIntent get info on {Condition}
+ConditionsIntent get information on the {Condition} condition
+ConditionsIntent get information about the {Condition} condition
+ConditionsIntent get info on the {Condition} condition
+ConditionsIntent get the effects of {Condition}
+ConditionsIntent get the effects of the {Condition} condition
+ConditionsIntent about {Condition}
+ConditionsIntent about the {Condition} condition
+ConditionsIntent about being {Condition}
+ConditionsIntent what are the effects of being {Condition}
+ConditionsIntent how does {Condition} work
+ConditionsIntent how does {Condition} affect me
+ConditionsIntent how does {Condition} affect a player
+ConditionsIntent how does {Condition} affect a creature
+ConditionsIntent how does {Condition} affect a character
+ConditionsIntent how does {Condition} affect someone
+ConditionsIntent how does {Condition} affect something
+ConditionsIntent how does being {Condition} work
+ConditionsIntent how does being {Condition} affect me
+ConditionsIntent how does being {Condition} affect a player
+ConditionsIntent how does being {Condition} affect a creature
+ConditionsIntent how does being {Condition} affect a character
+ConditionsIntent how does being {Condition} affect someone
+ConditionsIntent how does being {Condition} affect something
+ConditionsIntent what effect does {Condition} have
+ConditionsIntent what effect does {Condition} have on me
+ConditionsIntent what effect does {Condition} have on a player
+ConditionsIntent what effect does {Condition} have on a creature
+ConditionsIntent what effect does {Condition} have on a character
+ConditionsIntent what effect does {Condition} have on someone
+ConditionsIntent what effect does {Condition} have on something
+ConditionsIntent what effect does being {Condition} have
+ConditionsIntent what effect does being {Condition} have on me
+ConditionsIntent what effect does being {Condition} have on a player
+ConditionsIntent what effect does being {Condition} have on a creature
+ConditionsIntent what effect does being {Condition} have on a character
+ConditionsIntent what effect does being {Condition} have on someone
+ConditionsIntent what effect does being {Condition} have on something
+ConditionsIntent how does the {Condition} condition work
+ConditionsIntent how does the {Condition} affect a player
+ConditionsIntent how does the {Condition} condition affect a character
+ConditionsIntent how does the {Condition} condition affect someone
+ConditionsIntent how does the {Condition} condition affect something
+ConditionsIntent what does the {Condition} condition do
+ConditionsIntent what does the {Condition} condition do to me
+ConditionsIntent what does the {Condition} condition do to a player
+ConditionsIntent what does the {Condition} condition do to a creature
+ConditionsIntent what does the {Condition} condition do to a character
+ConditionsIntent what does the {Condition} condition do to someone
+ConditionsIntent what does the {Condition} condition do to something
+
+DiceIntent roll a {Sides}
+DiceIntent roll a {Sides} plus {Modifier} with {Status}
+DiceIntent roll a {Sides} with {Status} plus {Modifier}
+DiceIntent roll a {Sides} with {Status}
+DiceIntent roll a {Sides} plus {Modifier}
+DiceIntent can you roll a {Sides}
+DiceIntent can you roll a {Sides} plus {Modifier} with {Status}
+DiceIntent can you roll a {Sides} with {Status} plus {Modifier}
+DiceIntent can you roll a {Sides} with {Status}
+DiceIntent can you roll a {Sides} plus {Modifier}
+DiceIntent to roll a {Sides}
+DiceIntent to roll a {Sides} plus {Modifier} with {Status}
+DiceIntent to roll a {Sides} with {Status} plus {Modifier}
+DiceIntent to roll a {Sides} with {Status}
+DiceIntent to roll a {Sides} plus {Modifier}
+DiceIntent roll {Quantity} {Sides}
+DiceIntent roll {Quantity} {Sides} plus {Modifier} with {Status}
+DiceIntent roll {Quantity} {Sides} with {Status} plus {Modifier}
+DiceIntent roll {Quantity} {Sides} with {Status}
+DiceIntent roll {Quantity} {Sides} plus {Modifier}
+DiceIntent can you roll {Quantity} {Sides}
+DiceIntent can you roll {Quantity} {Sides} plus {Modifier} with {Status}
+DiceIntent can you roll {Quantity} {Sides} with {Status} plus {Modifier}
+DiceIntent can you roll {Quantity} {Sides} with {Status}
+DiceIntent can you roll {Quantity} {Sides} plus {Modifier}
+DiceIntent to roll {Quantity} {Sides}
+DiceIntent to roll {Quantity} {Sides} plus {Modifier} with {Status}
+DiceIntent to roll {Quantity} {Sides} with {Status} plus {Modifier}
+DiceIntent to roll {Quantity} {Sides} with {Status}
+DiceIntent to roll {Quantity} {Sides} plus {Modifier}
+
+ExhaustionLevelIntent what is exhaustion
+ExhaustionLevelIntent what does exhaustion do
+ExhaustionLevelIntent how does exhaustion effect me
+ExhaustionLevelIntent how does exhaustion affect me
+ExhaustionLevelIntent what is level {Level} of exhaustion
+ExhaustionLevelIntent whats level {Level} exhaustion
+ExhaustionLevelIntent what does level {Level} exhaustion mean
+ExhaustionLevelIntent what does level {Level} exhaustion do
+ExhaustionLevelIntent what does level {Level} exhaustion do to me
+ExhaustionLevelIntent what does level {Level} exhaustion do to a player
+ExhaustionLevelIntent what does level {Level} exhaustion do to a creature
+ExhaustionLevelIntent what does level {Level} exhaustion do to a character
+ExhaustionLevelIntent what does level {Level} of exhaustion mean
+ExhaustionLevelIntent what does level {Level} of exhaustion do
+ExhaustionLevelIntent what does level {Level} of exhaustion do to me
+ExhaustionLevelIntent what does level {Level} of exhaustion do to a player
+ExhaustionLevelIntent what does level {Level} of exhaustion do to a creature
+ExhaustionLevelIntent what does level {Level} of exhaustion do to a character
+ExhaustionLevelIntent about level {Level} exhaustion
+ExhaustionLevelIntent how does level {Level} exhaustion work
+ExhaustionLevelIntent what does having level {Level} exhaustion mean
+ExhaustionLevelIntent get information on level {Level} exhaustion
+ExhaustionLevelIntent tell me about level {Level} exhaustion
+ExhaustionLevelIntent what are the effects of level {Level} exhaustion
+ExhaustionLevelIntent lookup level {Level} exhaustion
+ExhaustionLevelIntent how does having level {Level} exhaustion affect me
+ExhaustionLevelIntent how does having level {Level} exhaustion affect a creature
+ExhaustionLevelIntent how does having level {Level} exhaustion affect a player
+ExhaustionLevelIntent how does having level {Level} exhaustion affect a character
+ExhaustionLevelIntent how does having level {Level} exhaustion affect someone
+ExhaustionLevelIntent how does level {Level} exhaustion affect me
+ExhaustionLevelIntent how does level {Level} exhaustion affect a creature
+ExhaustionLevelIntent how does level {Level} exhaustion affect a player
+ExhaustionLevelIntent how does level {Level} exhaustion affect a character
+ExhaustionLevelIntent how does level {Level} exhaustion affect someone
+ExhaustionLevelIntent I forgot what level {Level} exhaustion does
+ExhaustionLevelIntent I forgot what level {Level} exhaustion is
+ExhaustionLevelIntent I forgot how level {Level} exhaustion affects me
+ExhaustionLevelIntent I forgot how level {Level} exhaustion affects a player
+ExhaustionLevelIntent I forgot how level {Level} exhaustion affects a creature
+ExhaustionLevelIntent I forgot how level {Level} exhaustion affects a character
+ExhaustionLevelIntent I forgot how level {Level} exhaustion affects someone
+ExhaustionLevelIntent what is {Level} level of exhaustion
+ExhaustionLevelIntent whats {Level} level exhaustion
+ExhaustionLevelIntent what does {Level} level exhaustion mean
+ExhaustionLevelIntent what does {Level} level exhaustion do
+ExhaustionLevelIntent what does {Level} level exhaustion do to me
+ExhaustionLevelIntent what does {Level} level exhaustion do to a player
+ExhaustionLevelIntent what does {Level} level exhaustion do to a creature
+ExhaustionLevelIntent what does {Level} level exhaustion do to a character
+ExhaustionLevelIntent what does {Level} level of exhaustion mean
+ExhaustionLevelIntent what does {Level} level of exhaustion do
+ExhaustionLevelIntent what does {Level} level of exhaustion do to me
+ExhaustionLevelIntent what does {Level} level of exhaustion do to a player
+ExhaustionLevelIntent what does {Level} level of exhaustion do to a creature
+ExhaustionLevelIntent what does {Level} level of exhaustion do to a character
+ExhaustionLevelIntent about {Level} level exhaustion
+ExhaustionLevelIntent how does {Level} level exhaustion work
+ExhaustionLevelIntent what does having {Level} level exhaustion mean
+ExhaustionLevelIntent get information on {Level} level exhaustion
+ExhaustionLevelIntent tell me about {Level} level exhaustion
+ExhaustionLevelIntent what are the effects of {Level} level exhaustion
+ExhaustionLevelIntent lookup {Level} level exhaustion
+ExhaustionLevelIntent how does having {Level} level exhaustion affect me
+ExhaustionLevelIntent how does having {Level} level exhaustion affect a creature
+ExhaustionLevelIntent how does having {Level} level exhaustion affect a player
+ExhaustionLevelIntent how does having {Level} level exhaustion affect a character
+ExhaustionLevelIntent how does having {Level} level exhaustion affect someone
+ExhaustionLevelIntent how does {Level} level exhaustion affect me
+ExhaustionLevelIntent how does {Level} level exhaustion affect a creature
+ExhaustionLevelIntent how does {Level} level exhaustion affect a player
+ExhaustionLevelIntent how does {Level} level exhaustion affect a character
+ExhaustionLevelIntent how does {Level} level exhaustion affect someone
+ExhaustionLevelIntent I forgot what {Level} level exhaustion does
+ExhaustionLevelIntent I forgot what {Level} level exhaustion is
+ExhaustionLevelIntent I forgot how {Level} level exhaustion affects me
+ExhaustionLevelIntent I forgot how {Level} level exhaustion affects a player
+ExhaustionLevelIntent I forgot how {Level} level exhaustion affects a creature
+ExhaustionLevelIntent I forgot how {Level} level exhaustion affects a character
+ExhaustionLevelIntent I forgot how {Level} level exhaustion affects someone
+
+FeatsIntent what does {Feat} do
+FeatsIntent what does {Feat} affect
+FeatsIntent what does {Feat} mean
+FeatsIntent what does {FeatAttribute} mean {Feat}
+FeatsIntent what is {Feat}
+FeatsIntent what is {FeatAttribute} of {Feat}
+FeatsIntent what is the {FeatAttribute} of {Feat}
+FeatsIntent whats {Feat} do
+FeatsIntent whats {Feat} affect
+FeatsIntent whats {Feat} mean
+FeatsIntent whats {Feat} feat
+FeatsIntent what does the {Feat} do
+FeatsIntent what does the {Feat} affect
+FeatsIntent what does the {Feat} mean
+FeatsIntent what does the {FeatAttribute} mean {Feat}
+FeatsIntent what does the {FeatAttribute} of {Feat}
+FeatsIntent lookup {Feat} feat
+FeatsIntent lookup {FeatAttribute} of {Feat}
+FeatsIntent tell me about {Feat}
+FeatsIntent tell me about {FeatAttribute} of {Feat}
+FeatsIntent I forgot what {Feat} does
+FeatsIntent I forgot what {Feat} does to me
+FeatsIntent I forgot what {Feat} does to us
+FeatsIntent I forgot what {Feat} does to someone
+FeatsIntent I forgot what {Feat} does to a player
+FeatsIntent I forgot what {Feat} means
+FeatsIntent I forgot what {FeatAttribute} of {Feat} does
+FeatsIntent get information on {Feat}
+FeatsIntent get information on {FeatAttribute} of {Feat}
+FeatsIntent how does {Feat} work
+FeatsIntent how does {Feat} affect me
+FeatsIntent how does {Feat} affect us
+FeatsIntent how does {Feat} affect someone
+FeatsIntent how does {Feat} affect a player
+FeatsIntent get info on {Feat}
+FeatsIntent get info on {FeatAttribute} of {Feat}
+FeatsIntent about {Feat}
+FeatsIntent about the {FeatAttribute} of {Feat}
+FeatsIntent get the {Feat} feat
+FeatsIntent get the {FeatAttribute} of {Feat}
+FeatsIntent to get info on {Feat}
+FeatsIntent to get info on {Feat} feat
+FeatsIntent to get info on the {Feat} feat
+FeatsIntent to get info on {FeatAttribute} of {Feat}
+FeatsIntent to get information on {Feat}
+FeatsIntent to get information on {Feat} feat
+FeatsIntent to get information on {FeatAttribute} of {Feat}
+FeatsIntent tell me what {Feat} does
+FeatsIntent tell me what {Feat} does to me
+FeatsIntent tell me what {Feat} does to us
+FeatsIntent tell me what {Feat} does to someone
+FeatsIntent tell me what {Feat} does to a player
+FeatsIntent tell me what {Feat} affects
+FeatsIntent tell me what {Feat} means
+FeatsIntent tell me what {Feat} is
+FeatsIntent tell me what the {Feat} does
+FeatsIntent tell me what the {Feat} does to me
+FeatsIntent tell me what the {Feat} does to us
+FeatsIntent tell me what the {Feat} does to someone
+FeatsIntent tell me what the {Feat} does to a player
+FeatsIntent tell me what the {Feat} means
+FeatsIntent tell me what the {FeatAttribute} of {Feat} does
+FeatsIntent tell me how {Feat} works
+FeatsIntent tell me how {Feat} affect me
+FeatsIntent tell me how {Feat} affect us
+FeatsIntent tell me how {Feat} affect someone
+FeatsIntent tell me how {Feat} affect a player
+FeatsIntent tell us whats {Feat}
+FeatsIntent tell us whats {Feat} do
+FeatsIntent tell us whats {Feat} mean
+FeatsIntent tell us whats {Feat} feat
+FeatsIntent tell us whats {FeatAttribute} of {Feat}
+FeatsIntent tell us what is {Feat}
+FeatsIntent tell us what the {Feat} feat
+FeatsIntent tell us what the {FeatAttribute} of {Feat}
+FeatsIntent tell us how {Feat} works
+FeatsIntent tell us how {Feat} affect me
+FeatsIntent tell us how {Feat} affect us
+FeatsIntent tell us how {Feat} affect someone
+FeatsIntent tell us how {Feat} affect a player
+FeatsIntent I forgot what the {Feat} feat does
+FeatsIntent I forgot what the {Feat} feat does to me
+FeatsIntent I forgot what the {Feat} feat does to us
+FeatsIntent I forgot what the {Feat} feat does to someone
+FeatsIntent I forgot what the {Feat} feat does to a player
+FeatsIntent I forgot what the {Feat} feat is
+FeatsIntent I forgot what the {FeatAttribute} of {Feat} is
+FeatsIntent what is the {Feat} feat
+FeatsIntent for {Feat}
+FeatsIntent for {FeatAttribute} of {Feat}
+FeatsIntent what are the {FeatAttribute} for {Feat}
+
+IndexIntent where can I find more info on {Index}
+IndexIntent where can I find more info about {Index}
+IndexIntent where can I find more information on {Index}
+IndexIntent where can I find more information about {Index}
+IndexIntent on what page can I get info on {Index}
+IndexIntent on what page can I get info about {Index}
+IndexIntent on what page can I get information on {Index}
+IndexIntent on what page can I get information about {Index}
+IndexIntent on what page can I get more info on {Index}
+IndexIntent on what page can I get more info about {Index}
+IndexIntent on what page can I get more information on {Index}
+IndexIntent on what page can I get more information about {Index}
+IndexIntent on what page can I find info on {Index}
+IndexIntent on what page can I find info about {Index}
+IndexIntent on what page can I find information on {Index}
+IndexIntent on what page can I find information about {Index}
+IndexIntent on what page can I find more info on {Index}
+IndexIntent on what page can I find more info about {Index}
+IndexIntent on what page can I find more information on {Index}
+IndexIntent on what page can I find more information about {Index}
+IndexIntent on what page can I locate info on {Index}
+IndexIntent on what page can I locate info about {Index}
+IndexIntent on what page can I locate information on {Index}
+IndexIntent on what page can I locate information about {Index}
+IndexIntent on what page can I locate more info on {Index}
+IndexIntent on what page can I locate more info about {Index}
+IndexIntent on what page can I locate more information on {Index}
+IndexIntent on what page can I locate more information about {Index}
+IndexIntent on what page can I look up info on {Index}
+IndexIntent on what page can I look up info about {Index}
+IndexIntent on what page can I look up information on {Index}
+IndexIntent on what page can I look up information about {Index}
+IndexIntent on what page can I look up more info on {Index}
+IndexIntent on what page can I look up more info about {Index}
+IndexIntent on what page can I look up more information on {Index}
+IndexIntent on what page can I look up more information about {Index}
+IndexIntent on what page can we get info on {Index}
+IndexIntent on what page can we get info about {Index}
+IndexIntent on what page can we get information on {Index}
+IndexIntent on what page can we get information about {Index}
+IndexIntent on what page can we get more info on {Index}
+IndexIntent on what page can we get more info about {Index}
+IndexIntent on what page can we get more information on {Index}
+IndexIntent on what page can we get more information about {Index}
+IndexIntent on what page can we find info on {Index}
+IndexIntent on what page can we find info about {Index}
+IndexIntent on what page can we find information on {Index}
+IndexIntent on what page can we find information about {Index}
+IndexIntent on what page can we find more info on {Index}
+IndexIntent on what page can we find more info about {Index}
+IndexIntent on what page can we find more information on {Index}
+IndexIntent on what page can we find more information about {Index}
+IndexIntent on what page can we locate info on {Index}
+IndexIntent on what page can we locate info about {Index}
+IndexIntent on what page can we locate information on {Index}
+IndexIntent on what page can we locate information about {Index}
+IndexIntent on what page can we locate more info on {Index}
+IndexIntent on what page can we locate more info about {Index}
+IndexIntent on what page can we locate more information on {Index}
+IndexIntent on what page can we locate more information about {Index}
+IndexIntent on what page can we look up info on {Index}
+IndexIntent on what page can we look up info about {Index}
+IndexIntent on what page can we look up information on {Index}
+IndexIntent on what page can we look up information about {Index}
+IndexIntent on what page can we look up more info on {Index}
+IndexIntent on what page can we look up more info about {Index}
+IndexIntent on what page can we look up more information on {Index}
+IndexIntent on what page can we look up more information about {Index}
+IndexIntent on which page can I get info on {Index}
+IndexIntent on which page can I get info about {Index}
+IndexIntent on which page can I get information on {Index}
+IndexIntent on which page can I get information about {Index}
+IndexIntent on which page can I get more info on {Index}
+IndexIntent on which page can I get more info about {Index}
+IndexIntent on which page can I get more information on {Index}
+IndexIntent on which page can I get more information about {Index}
+IndexIntent on which page can I find info on {Index}
+IndexIntent on which page can I find info about {Index}
+IndexIntent on which page can I find information on {Index}
+IndexIntent on which page can I find information about {Index}
+IndexIntent on which page can I find more info on {Index}
+IndexIntent on which page can I find more info about {Index}
+IndexIntent on which page can I find more information on {Index}
+IndexIntent on which page can I find more information about {Index}
+IndexIntent on which page can I locate info on {Index}
+IndexIntent on which page can I locate info about {Index}
+IndexIntent on which page can I locate information on {Index}
+IndexIntent on which page can I locate information about {Index}
+IndexIntent on which page can I locate more info on {Index}
+IndexIntent on which page can I locate more info about {Index}
+IndexIntent on which page can I locate more information on {Index}
+IndexIntent on which page can I locate more information about {Index}
+IndexIntent on which page can I look up info on {Index}
+IndexIntent on which page can I look up info about {Index}
+IndexIntent on which page can I look up information on {Index}
+IndexIntent on which page can I look up information about {Index}
+IndexIntent on which page can I look up more info on {Index}
+IndexIntent on which page can I look up more info about {Index}
+IndexIntent on which page can I look up more information on {Index}
+IndexIntent on which page can I look up more information about {Index}
+IndexIntent on which page can we get info on {Index}
+IndexIntent on which page can we get info about {Index}
+IndexIntent on which page can we get information on {Index}
+IndexIntent on which page can we get information about {Index}
+IndexIntent on which page can we get more info on {Index}
+IndexIntent on which page can we get more info about {Index}
+IndexIntent on which page can we get more information on {Index}
+IndexIntent on which page can we get more information about {Index}
+IndexIntent on which page can we find info on {Index}
+IndexIntent on which page can we find info about {Index}
+IndexIntent on which page can we find information on {Index}
+IndexIntent on which page can we find information about {Index}
+IndexIntent on which page can we find more info on {Index}
+IndexIntent on which page can we find more info about {Index}
+IndexIntent on which page can we find more information on {Index}
+IndexIntent on which page can we find more information about {Index}
+IndexIntent on which page can we locate info on {Index}
+IndexIntent on which page can we locate info about {Index}
+IndexIntent on which page can we locate information on {Index}
+IndexIntent on which page can we locate information about {Index}
+IndexIntent on which page can we locate more info on {Index}
+IndexIntent on which page can we locate more info about {Index}
+IndexIntent on which page can we locate more information on {Index}
+IndexIntent on which page can we locate more information about {Index}
+IndexIntent on which page can we look up info on {Index}
+IndexIntent on which page can we look up info about {Index}
+IndexIntent on which page can we look up information on {Index}
+IndexIntent on which page can we look up information about {Index}
+IndexIntent on which page can we look up more info on {Index}
+IndexIntent on which page can we look up more info about {Index}
+IndexIntent on which page can we look up more information on {Index}
+IndexIntent on which page can we look up more information about {Index}
+IndexIntent whats the page for {Index}
+IndexIntent what is the page for {Index}
+IndexIntent what page is {Index} on
+IndexIntent what page is {Index} on in the handbook
+IndexIntent what page is {Index} on in the players handbook
+IndexIntent what page is {Index} on in the p. h. b.
+IndexIntent which page is {Index} on
+IndexIntent which page is {Index} on in the handbook
+IndexIntent which page is {Index} on in the players handbook
+IndexIntent which page is {Index} on in the p. h. b.
+IndexIntent where in the handbook is {Index}
+IndexIntent where in the handbook are {Index}
+IndexIntent where in the handbook is {Index}
+IndexIntent where in the handbook is {Index} located
+
+ItemsIntent how {ItemAttribute} is a {Item}
+ItemsIntent how {ItemAttribute} is an {Item}
+ItemsIntent how {ItemAttribute} is the {Item}
+ItemsIntent lookup {Item}
+ItemsIntent whats a {Item}
+ItemsIntent whats an {Item}
+ItemsIntent whats {Item}
+ItemsIntent what is a {Item}
+ItemsIntent what is an {Item}
+ItemsIntent what is {Item}
+ItemsIntent what the {ItemAttribute} of an {Item}
+ItemsIntent whats the {ItemAttribute} of a {Item}
+ItemsIntent whats the {ItemAttribute} of an {Item}
+ItemsIntent whats the {ItemAttribute} of {Item}
+ItemsIntent whats the {ItemAttribute} of {Item} armor
+ItemsIntent whats an {ItemAttribute} of a {Item}
+ItemsIntent whats an {ItemAttribute} of an {Item}
+ItemsIntent whats an {ItemAttribute} of {Item}
+ItemsIntent whats a {ItemAttribute} of a {Item}
+ItemsIntent whats a {ItemAttribute} of an {Item}
+ItemsIntent whats a {ItemAttribute} of {Item}
+ItemsIntent what is the {ItemAttribute} of a {Item}
+ItemsIntent what is the {ItemAttribute} of an {Item}
+ItemsIntent what is the {ItemAttribute} of {Item}
+ItemsIntent what is the {ItemAttribute} of {Item} armor
+ItemsIntent what is an {ItemAttribute} of a {Item}
+ItemsIntent what is an {ItemAttribute} of an {Item}
+ItemsIntent what is an {ItemAttribute} of {Item}
+ItemsIntent what is a {ItemAttribute} of a {Item}
+ItemsIntent what is a {ItemAttribute} of an {Item}
+ItemsIntent what is a {ItemAttribute} of {Item}
+ItemsIntent what does a {Item} do
+ItemsIntent what does an {Item} do
+ItemsIntent tell me about {Item}
+ItemsIntent I forget what {Item} is
+ItemsIntent I forget what {Item} does
+ItemsIntent I forget what a {Item} is
+ItemsIntent I forget what a {Item} does
+ItemsIntent I forget what an {Item} is
+ItemsIntent I forget what an {Item} does
+ItemsIntent to get information on {Item}
+ItemsIntent to get info on {Item}
+ItemsIntent get information on {Item}
+ItemsIntent get info on {Item}
+ItemsIntent about {Item}
+ItemsIntent what does a {Item} do
+ItemsIntent what does an {Item} do
+ItemsIntent what does the {Item} do
+ItemsIntent what does {Item} do
+ItemsIntent how does a {Item} work
+ItemsIntent how does an {Item} work
+ItemsIntent how does the {Item} work
+ItemsIntent how does {Item} work
+ItemsIntent how much does {Item} {ItemAttribute}
+ItemsIntent how much does a {Item} {ItemAttribute}
+ItemsIntent how much does an {Item} {ItemAttribute}
+ItemsIntent how much do {Item} {ItemAttribute}
+ItemsIntent tell me what the {Item} does
+ItemsIntent tell me what a {Item} does
+ItemsIntent tell me what an {Item} does
+ItemsIntent tell me what {Item} does
+ItemsIntent tell me how the {Item} works
+ItemsIntent tell me how a {Item} works
+ItemsIntent tell me how an {Item} works
+ItemsIntent tell me how {Item} works
+ItemsIntent tell us what the {Item} does
+ItemsIntent tell us what a {Item} does
+ItemsIntent tell us what an {Item} does
+ItemsIntent tell us what {Item} does
+ItemsIntent tell us how the {Item} works
+ItemsIntent tell us how a {Item} works
+ItemsIntent tell us how an {Item} works
+ItemsIntent tell us how {Item} works
+ItemsIntent get the information on a {Item}
+ItemsIntent get the information on an {Item}
+ItemsIntent get the information about a {Item}
+ItemsIntent get the information about an {Item}
+ItemsIntent get the information for a {Item}
+ItemsIntent get the information for an {Item}
+ItemsIntent get information on a {Item}
+ItemsIntent get information on an {Item}
+ItemsIntent get information about a {Item}
+ItemsIntent get information about an {Item}
+ItemsIntent get information for a {Item}
+ItemsIntent get information for an {Item}
+ItemsIntent to get the {ItemAttribute} of {Item}
+ItemsIntent to get the {ItemAttribute} of {Item} armor
+ItemsIntent get the {ItemAttribute} of {Item}
+ItemsIntent get the {ItemAttribute} of {Item} armor
+ItemsIntent how much {ItemAttribute} does a {Item} do
+ItemsIntent how much {ItemAttribute} does a {Item} cause
+ItemsIntent how much {ItemAttribute} does a {Item} inflict
+ItemsIntent what {ItemAttribute} does a {Item} do
+ItemsIntent what {ItemAttribute} does a {Item} cause
+ItemsIntent what {ItemAttribute} does a {Item} inflict
+ItemsIntent what are the {ItemAttribute} of a {Item}
+
+SpellCastIntent how do I cast {Spell}
+SpellCastIntent how to cast {Spell}
+SpellCastIntent what do I need to cast {Spell}
+SpellCastIntent how can I cast {Spell}
+SpellCastIntent what is needed to cast {Spell}
+SpellCastIntent what are the requirements to cast {Spell}
+SpellCastIntent whats needed to cast {Spell}
+SpellCastIntent in order to cast {Spell} what do I need
+SpellCastIntent what do I need for {Spell}
+SpellCastIntent whats needed for {Spell}
+SpellCastIntent how do I use {Spell}
+SpellCastIntent {Spell} requires what
+SpellCastIntent to use {Spell} what do I need
+
+SpellDamageIntent at {SlotLevel} level how much damage does the spell {Spell} do
+SpellDamageIntent at {SlotLevel} level how much damage does {Spell} do
+SpellDamageIntent at {SlotLevel} level how much damage does the cantrip {Spell} do
+SpellDamageIntent how much damage does a {SlotLevel} level {Spell} spell do
+SpellDamageIntent how much damage does the {SlotLevel} level {Spell} spell do
+SpellDamageIntent how much damage does a {SlotLevel} level {Spell} cantrip do
+SpellDamageIntent how much damage does an {SlotLevel} level {Spell} spell do
+SpellDamageIntent how much damage does {SlotLevel} level {Spell} do
+SpellDamageIntent how much damage does an {SlotLevel} level {Spell} cantrip do
+SpellDamageIntent how much damage does the spell {Spell} do at {SlotLevel} level
+SpellDamageIntent how much damage does the cantrip {Spell} do at {SlotLevel} level
+SpellDamageIntent how much damage does the cantrip {Spell} do at player {SlotLevel} level
+SpellDamageIntent how much damage does {Spell} do at player {SlotLevel} level
+SpellDamageIntent what damage does a {SlotLevel} level {Spell} do
+SpellDamageIntent what damage does an {SlotLevel} level {Spell} do
+SpellDamageIntent how much damage is dealt by {Spell} to a player at {SlotLevel} level
+SpellDamageIntent how much damage does {Spell} do at {SlotLevel} level
+SpellDamageIntent how much damage does {Spell} cause at {SlotLevel} level
+SpellDamageIntent how much damage does {Spell} cause to a player at {SlotLevel} level
+SpellDamageIntent how much damage does {Spell} hit for at {SlotLevel} level
+SpellDamageIntent how much damage does a {Spell} do at {SlotLevel} level
+SpellDamageIntent how much damage does a {Spell} do to a player at {SlotLevel} level
+SpellDamageIntent how much damage does a {Spell} cause at {SlotLevel} level
+SpellDamageIntent how much damage does a {Spell} cause a player at {SlotLevel} level
+SpellDamageIntent how much damage does a {Spell} hit for at {SlotLevel} level
+SpellDamageIntent how much damage does a {Spell} hit for a player at {SlotLevel} level
+SpellDamageIntent how much damage does an {Spell} do at {SlotLevel} level
+SpellDamageIntent how much damage does an {Spell} do to a player at {SlotLevel} level
+SpellDamageIntent how much damage does an {Spell} cause at {SlotLevel} level
+SpellDamageIntent how much damage does an {Spell} cause a player at {SlotLevel} level
+SpellDamageIntent how much damage does an {Spell} hit for at {SlotLevel} level
+SpellDamageIntent how much damage does an {Spell} hit for a player at {SlotLevel} level
+SpellDamageIntent at {SlotLevel} level how much damage is dealt by {Spell} to a player
+SpellDamageIntent at {SlotLevel} level how much damage does {Spell} do to a player
+SpellDamageIntent at {SlotLevel} level how much damage does {Spell} cause
+SpellDamageIntent at {SlotLevel} level how much damage does {Spell} cause a player
+SpellDamageIntent at {SlotLevel} level how much damage does {Spell} hit for
+SpellDamageIntent at {SlotLevel} level how much damage does a {Spell} do to a player
+SpellDamageIntent at {SlotLevel} level how much damage does a {Spell} cause
+SpellDamageIntent at {SlotLevel} level how much damage does a {Spell} cause a player
+SpellDamageIntent at {SlotLevel} level how much damage does a {Spell} hit for
+SpellDamageIntent at {SlotLevel} level how much damage does a {Spell} hit for a player
+SpellDamageIntent at {SlotLevel} level what is the damage is dealt by {Spell}
+SpellDamageIntent at {SlotLevel} level what is the damage is dealt by {Spell} to a player
+SpellDamageIntent at level {SlotLevel} how much damage does the spell {Spell} do
+SpellDamageIntent at level {SlotLevel} how much damage does {Spell} do
+SpellDamageIntent at level {SlotLevel} how much damage does the cantrip {Spell} do
+SpellDamageIntent how much damage does a level {SlotLevel} {Spell} spell do
+SpellDamageIntent how much damage does the level {SlotLevel} {Spell} spell do
+SpellDamageIntent how much damage does a level {SlotLevel} {Spell} cantrip do
+SpellDamageIntent how much damage does an level {SlotLevel} {Spell} spell do
+SpellDamageIntent how much damage does level {SlotLevel} {Spell} do
+SpellDamageIntent how much damage does an level {SlotLevel} {Spell} cantrip do
+SpellDamageIntent how much damage does the spell {Spell} do at level {SlotLevel}
+SpellDamageIntent how much damage does the cantrip {Spell} do at level {SlotLevel}
+SpellDamageIntent how much damage does the cantrip {Spell} do at player level {SlotLevel}
+SpellDamageIntent how much damage does {Spell} do at player level {SlotLevel}
+SpellDamageIntent what damage does a level {SlotLevel} {Spell} do
+SpellDamageIntent what damage does an level {SlotLevel} {Spell} do
+SpellDamageIntent how much damage is dealt by {Spell} to a player at level {SlotLevel}
+SpellDamageIntent how much damage does {Spell} do at level {SlotLevel}
+SpellDamageIntent how much damage does {Spell} cause at level {SlotLevel}
+SpellDamageIntent how much damage does {Spell} cause to a player at level {SlotLevel}
+SpellDamageIntent how much damage does {Spell} hit for at level {SlotLevel}
+SpellDamageIntent how much damage does a {Spell} do at level {SlotLevel}
+SpellDamageIntent how much damage does a {Spell} do to a player at level {SlotLevel}
+SpellDamageIntent how much damage does a {Spell} cause at level {SlotLevel}
+SpellDamageIntent how much damage does a {Spell} cause a player at level {SlotLevel}
+SpellDamageIntent how much damage does a {Spell} hit for at level {SlotLevel}
+SpellDamageIntent how much damage does a {Spell} hit for a player at level {SlotLevel}
+SpellDamageIntent how much damage does an {Spell} do at level {SlotLevel}
+SpellDamageIntent how much damage does an {Spell} do to a player at level {SlotLevel}
+SpellDamageIntent how much damage does an {Spell} cause at level {SlotLevel}
+SpellDamageIntent how much damage does an {Spell} cause a player at level {SlotLevel}
+SpellDamageIntent how much damage does an {Spell} hit for at level {SlotLevel}
+SpellDamageIntent how much damage does an {Spell} hit for a player at level {SlotLevel}
+SpellDamageIntent at level {SlotLevel} how much damage is dealt by {Spell} to a player
+SpellDamageIntent at level {SlotLevel} how much damage does {Spell} do to a player
+SpellDamageIntent at level {SlotLevel} how much damage does {Spell} cause
+SpellDamageIntent at level {SlotLevel} how much damage does {Spell} cause a player
+SpellDamageIntent at level {SlotLevel} how much damage does {Spell} hit for
+SpellDamageIntent at level {SlotLevel} how much damage does a {Spell} do to a player
+SpellDamageIntent at level {SlotLevel} how much damage does a {Spell} cause
+SpellDamageIntent at level {SlotLevel} how much damage does a {Spell} cause a player
+SpellDamageIntent at level {SlotLevel} how much damage does a {Spell} hit for
+SpellDamageIntent at level {SlotLevel} how much damage does a {Spell} hit for a player
+SpellDamageIntent at level {SlotLevel} what is the damage is dealt by {Spell}
+SpellDamageIntent at level {SlotLevel} what is the damage is dealt by {Spell} to a player
+
+SpellHealIntent at {SlotLevel} level how much healing does the spell {Spell} do
+SpellHealIntent how much can I heal with {Spell}
+SpellHealIntent how much can I heal with a {SlotLevel} {Spell}
+SpellHealIntent how much can I heal with {Spell} at {SlotLevel}
+SpellHealIntent at {SlotLevel} level how much healing does the spell {Spell} restore
+SpellHealIntent at {SlotLevel} level how much healing does {Spell} do
+SpellHealIntent at {SlotLevel} level how much healing does {Spell} restore
+SpellHealIntent at {SlotLevel} level how much health does the spell {Spell} do
+SpellHealIntent at {SlotLevel} level how much health does the spell {Spell} restore
+SpellHealIntent at {SlotLevel} level how much health does {Spell} do
+SpellHealIntent at {SlotLevel} level how much health does {Spell} restore
+SpellHealIntent at {SlotLevel} level how much h. p. does the spell {Spell} do
+SpellHealIntent at {SlotLevel} level how much h. p. does the spell {Spell} restore
+SpellHealIntent at {SlotLevel} level how much h. p. does {Spell} do
+SpellHealIntent at {SlotLevel} level how much h. p. does {Spell} restore
+SpellHealIntent at {SlotLevel} level how much hit points does the spell {Spell} do
+SpellHealIntent at {SlotLevel} level how much hit points does the spell {Spell} restore
+SpellHealIntent at {SlotLevel} level how much hit points does {Spell} do
+SpellHealIntent at {SlotLevel} level how much hit points does {Spell} restore
+SpellHealIntent how much healing does a {SlotLevel} level {Spell} spell do
+SpellHealIntent how much healing does a {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much healing does a {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much healing does {SlotLevel} level {Spell} spell do
+SpellHealIntent how much healing does {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much healing does {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much healing does an {SlotLevel} level {Spell} spell do
+SpellHealIntent how much healing does an {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much healing does an {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much healing does {SlotLevel} level {Spell} do
+SpellHealIntent how much healing does {SlotLevel} level {Spell} restore
+SpellHealIntent how much healing does {SlotLevel} level {Spell} replenish
+SpellHealIntent how much healing does {Spell} spell do at {SlotLevel} level
+SpellHealIntent how much healing does {Spell} spell restore at {SlotLevel} level
+SpellHealIntent how much healing does {Spell} spell replenish at {SlotLevel} level
+SpellHealIntent how much healing does {Spell} do at {SlotLevel} level
+SpellHealIntent how much healing does {Spell} restore at {SlotLevel} level
+SpellHealIntent how much healing does {Spell} replenish at {SlotLevel} level
+SpellHealIntent how much health does a {SlotLevel} level {Spell} spell do
+SpellHealIntent how much health does a {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much health does a {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much health does {SlotLevel} level {Spell} spell do
+SpellHealIntent how much health does {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much health does {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much health does {Spell} spell do at {SlotLevel} level
+SpellHealIntent how much health does {Spell} spell restore at {SlotLevel} level
+SpellHealIntent how much health does {Spell} spell replenish at {SlotLevel} level
+SpellHealIntent how much health does {Spell} do at {SlotLevel} level
+SpellHealIntent how much health does {Spell} restore at {SlotLevel} level
+SpellHealIntent how much health does {Spell} replenish at {SlotLevel} level
+SpellHealIntent how much health does an {SlotLevel} level {Spell} spell do
+SpellHealIntent how much health does an {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much health does an {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much health does {SlotLevel} level {Spell} do
+SpellHealIntent how much health does {SlotLevel} level {Spell} restore
+SpellHealIntent how much health does {SlotLevel} level {Spell} replenish
+SpellHealIntent how much h. p. does {SlotLevel} level {Spell} spell do
+SpellHealIntent how much h. p. does {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much h. p. does {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much h. p. does a {SlotLevel} level {Spell} spell do
+SpellHealIntent how much h. p. does a {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much h. p. does a {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much h. p. does a {SlotLevel} level {Spell} do
+SpellHealIntent how much h. p. does a {SlotLevel} level {Spell} restore
+SpellHealIntent how much h. p. does a {SlotLevel} level {Spell} replenish
+SpellHealIntent how much h. p. does an {SlotLevel} level {Spell} spell do
+SpellHealIntent how much h. p. does an {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much h. p. does an {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much h. p. does an {SlotLevel} level {Spell} do
+SpellHealIntent how much h. p. does an {SlotLevel} level {Spell} restore
+SpellHealIntent how much h. p. does an {SlotLevel} level {Spell} replenish
+SpellHealIntent how much h. p. does {Spell} spell do at {SlotLevel} level 
+SpellHealIntent how much h. p. does {Spell} spell restore at {SlotLevel} level
+SpellHealIntent how much h. p. does {Spell} spell replenish at {SlotLevel} level
+SpellHealIntent how much h. p. does {Spell} do at {SlotLevel} level 
+SpellHealIntent how much h. p. does {Spell} restore at {SlotLevel} level
+SpellHealIntent how much h. p. does {Spell} replenish at {SlotLevel} level
+SpellHealIntent how much hit points does a {SlotLevel} level {Spell} spell do
+SpellHealIntent how much hit points does a {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much hit points does a {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much hit points does {SlotLevel} level {Spell} spell do
+SpellHealIntent how much hit points does {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much hit points does {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much hit points does {Spell} spell do at {SlotLevel} level 
+SpellHealIntent how much hit points does {Spell} spell restore at {SlotLevel} level
+SpellHealIntent how much hit points does {Spell} spell replenish at {SlotLevel} level
+SpellHealIntent how much hit points does a {SlotLevel} level {Spell} do
+SpellHealIntent how much hit points does a {SlotLevel} level {Spell} restore
+SpellHealIntent how much hit points does a {SlotLevel} level {Spell} replenish
+SpellHealIntent how much hit points does an {SlotLevel} level {Spell} spell do
+SpellHealIntent how much hit points does an {SlotLevel} level {Spell} spell restore
+SpellHealIntent how much hit points does an {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how much hit points does an {SlotLevel} level {Spell} do
+SpellHealIntent how much hit points does an {SlotLevel} level {Spell} restore
+SpellHealIntent how much hit points does an {SlotLevel} level {Spell} replenish
+SpellHealIntent how many hit points does a {SlotLevel} level {Spell} spell do
+SpellHealIntent how many hit points does a {SlotLevel} level {Spell} spell restore
+SpellHealIntent how many hit points does a {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how many hit points does {SlotLevel} level {Spell} spell do
+SpellHealIntent how many hit points does {SlotLevel} level {Spell} spell restore
+SpellHealIntent how many hit points does {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how many hit points does {Spell} spell do at {SlotLevel} level 
+SpellHealIntent how many hit points does {Spell} spell restore at {SlotLevel} level
+SpellHealIntent how many hit points does {Spell} spell replenish at {SlotLevel} level
+SpellHealIntent how many hit points does a {SlotLevel} level {Spell} do
+SpellHealIntent how many hit points does a {SlotLevel} level {Spell} restore
+SpellHealIntent how many hit points does a {SlotLevel} level {Spell} replenish
+SpellHealIntent how many hit points does an {SlotLevel} level {Spell} spell do
+SpellHealIntent how many hit points does an {SlotLevel} level {Spell} spell restore
+SpellHealIntent how many hit points does an {SlotLevel} level {Spell} spell replenish
+SpellHealIntent how many hit points does an {SlotLevel} level {Spell} do
+SpellHealIntent how many hit points does an {SlotLevel} level {Spell} restore
+SpellHealIntent how many hit points does an {SlotLevel} level {Spell} replenish
+SpellHealIntent how much healing does {Spell} do at {SlotLevel} level
+SpellHealIntent how much healing does {Spell} restore at {SlotLevel} level
+SpellHealIntent how much healing does {Spell} replenish at {SlotLevel} level
+SpellHealIntent how much health does {Spell} do at {SlotLevel} level
+SpellHealIntent how much health does {Spell} restore at {SlotLevel} level
+SpellHealIntent how much health does {Spell} replenish at {SlotLevel} level
+SpellHealIntent how much h. p. does {Spell} do at {SlotLevel} level
+SpellHealIntent how much h. p. does {Spell} restore at {SlotLevel} level
+SpellHealIntent how much h. p. does {Spell} replenish at {SlotLevel} level
+SpellHealIntent how much hit points does {Spell} do at {SlotLevel} level
+SpellHealIntent how much hit points does {Spell} restore at {SlotLevel} level
+SpellHealIntent how much hit points does {Spell} replenish at {SlotLevel} level
+SpellHealIntent how many hit points does {Spell} do at {SlotLevel} level
+SpellHealIntent how many hit points does {Spell} restore at {SlotLevel} level
+SpellHealIntent how many hit points does {Spell} replenish at {SlotLevel} level
+SpellHealIntent how much healing does the spell {Spell} do at {SlotLevel} level
+SpellHealIntent how much healing does {Spell} do at {SlotLevel} level
+SpellHealIntent how much health does the spell {Spell} do at {SlotLevel} level
+SpellHealIntent how much health does {Spell} do at {SlotLevel} level
+SpellHealIntent how much h. p. does the spell {Spell} do at {SlotLevel} level
+SpellHealIntent how much h. p. does {Spell} do at {SlotLevel} level
+SpellHealIntent how much hit points does the spell {Spell} do at {SlotLevel} level
+SpellHealIntent how much hit points does {Spell} do at {SlotLevel} level
+SpellHealIntent how many hit points does the spell {Spell} do at {SlotLevel} level
+SpellHealIntent how many hit points does {Spell} do at {SlotLevel} level
+SpellHealIntent how much healing does {Spell} do at player {SlotLevel} level
+SpellHealIntent how much health does {Spell} do at player {SlotLevel} level
+SpellHealIntent how much h. p. does {Spell} do at player {SlotLevel} level
+SpellHealIntent how much hit points does {Spell} do at player {SlotLevel} level
+SpellHealIntent how many hit points does {Spell} do at player {SlotLevel} level
+SpellHealIntent what healing does a {SlotLevel} level {Spell} healing
+SpellHealIntent what healing does a {SlotLevel} level {Spell} health
+SpellHealIntent what healing does an {SlotLevel} level {Spell} healing
+SpellHealIntent what healing does an {SlotLevel} level {Spell} health
+SpellHealIntent what health does a {SlotLevel} level {Spell} healing
+SpellHealIntent what health does a {SlotLevel} level {Spell} health
+SpellHealIntent what health does an {SlotLevel} level {Spell} healing
+SpellHealIntent what health does an {SlotLevel} level {Spell} health
+SpellHealIntent what h. p. does a {SlotLevel} level {Spell} healing
+SpellHealIntent what h. p. does a {SlotLevel} level {Spell} health
+SpellHealIntent what h. p. does an {SlotLevel} level {Spell} healing
+SpellHealIntent what h. p. does an {SlotLevel} level {Spell} health
+SpellHealIntent what hit points does a {SlotLevel} level {Spell} healing
+SpellHealIntent what hit points does a {SlotLevel} level {Spell} health
+SpellHealIntent what hit points does an {SlotLevel} level {Spell} healing
+SpellHealIntent what hit points does an {SlotLevel} level {Spell} health
+SpellHealIntent at level {SlotLevel} how much healing does the spell {Spell} do
+SpellHealIntent at level {SlotLevel} how much healing does the spell {Spell} restore
+SpellHealIntent at level {SlotLevel} how much healing does {Spell} do
+SpellHealIntent at level {SlotLevel} how much healing does {Spell} restore
+SpellHealIntent at level {SlotLevel} how much health does the spell {Spell} do
+SpellHealIntent at level {SlotLevel} how much health does the spell {Spell} restore
+SpellHealIntent at level {SlotLevel} how much health does {Spell} do
+SpellHealIntent at level {SlotLevel} how much health does {Spell} restore
+SpellHealIntent at level {SlotLevel} how much h. p. does the spell {Spell} do
+SpellHealIntent at level {SlotLevel} how much h. p. does the spell {Spell} restore
+SpellHealIntent at level {SlotLevel} how much h. p. does {Spell} do
+SpellHealIntent at level {SlotLevel} how much h. p. does {Spell} restore
+SpellHealIntent at level {SlotLevel} how much hit points does the spell {Spell} do
+SpellHealIntent at level {SlotLevel} how much hit points does the spell {Spell} restore
+SpellHealIntent at level {SlotLevel} how much hit points does {Spell} do
+SpellHealIntent at level {SlotLevel} how much hit points does {Spell} restore
+SpellHealIntent how much healing does a level {SlotLevel} {Spell} spell do
+SpellHealIntent how much healing does a level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much healing does a level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much healing does an level {SlotLevel} {Spell} spell do
+SpellHealIntent how much healing does an level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much healing does an level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much healing does an level {SlotLevel} {Spell} do
+SpellHealIntent how much healing does an level {SlotLevel} {Spell} restore
+SpellHealIntent how much healing does an level {SlotLevel} {Spell} replenish
+SpellHealIntent how much healing does {Spell} spell do at level {SlotLevel}
+SpellHealIntent how much healing does {Spell} spell restore at level {SlotLevel}
+SpellHealIntent how much healing does {Spell} spell replenish at level {SlotLevel}
+SpellHealIntent how much healing does {Spell} do at level {SlotLevel}
+SpellHealIntent how much healing does {Spell} restore at level {SlotLevel}
+SpellHealIntent how much healing does {Spell} replenish at level {SlotLevel}
+SpellHealIntent how much health does a level {SlotLevel} {Spell} spell do
+SpellHealIntent how much health does a level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much health does a level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much health does level {SlotLevel} {Spell} spell do
+SpellHealIntent how much health does level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much health does level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much health does {Spell} spell do at level {SlotLevel}
+SpellHealIntent how much health does {Spell} spell restore at level {SlotLevel}
+SpellHealIntent how much health does {Spell} spell replenish at level {SlotLevel}
+SpellHealIntent how much health does {Spell} do at level {SlotLevel}
+SpellHealIntent how much health does {Spell} restore at level {SlotLevel}
+SpellHealIntent how much health does {Spell} replenish at level {SlotLevel}
+SpellHealIntent how much health does a level {SlotLevel} {Spell} do
+SpellHealIntent how much health does a level {SlotLevel} {Spell} restore
+SpellHealIntent how much health does a level {SlotLevel} {Spell} replenish
+SpellHealIntent how much health does an level {SlotLevel} {Spell} spell do
+SpellHealIntent how much health does an level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much health does an level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much health does an level {SlotLevel} {Spell} do
+SpellHealIntent how much health does an level {SlotLevel} {Spell} restore
+SpellHealIntent how much health does an level {SlotLevel} {Spell} replenish
+SpellHealIntent how much h. p. does a level {SlotLevel} {Spell} spell do
+SpellHealIntent how much h. p. does a level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much h. p. does a level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much h. p. does level {SlotLevel} {Spell} spell do
+SpellHealIntent how much h. p. does level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much h. p. does level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much h. p. does a level {SlotLevel} {Spell} do
+SpellHealIntent how much h. p. does a level {SlotLevel} {Spell} restore
+SpellHealIntent how much h. p. does a level {SlotLevel} {Spell} replenish
+SpellHealIntent how much h. p. does an level {SlotLevel} {Spell} spell do
+SpellHealIntent how much h. p. does an level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much h. p. does an level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much h. p. does an level {SlotLevel} {Spell} do
+SpellHealIntent how much h. p. does an level {SlotLevel} {Spell} restore
+SpellHealIntent how much h. p. does an level {SlotLevel} {Spell} replenish
+SpellHealIntent how much h. p. does {Spell} spell do at level {SlotLevel} 
+SpellHealIntent how much h. p. does {Spell} spell restore at level {SlotLevel}
+SpellHealIntent how much h. p. does {Spell} spell replenish at level {SlotLevel}
+SpellHealIntent how much h. p. does {Spell} do at level {SlotLevel} 
+SpellHealIntent how much h. p. does {Spell} restore at level {SlotLevel}
+SpellHealIntent how much h. p. does {Spell} replenish at level {SlotLevel}
+SpellHealIntent how much hit points does a level {SlotLevel} {Spell} spell do
+SpellHealIntent how much hit points does a level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much hit points does a level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much hit points does level {SlotLevel} {Spell} spell do
+SpellHealIntent how much hit points does level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much hit points does level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much hit points does {Spell} spell do at level {SlotLevel} 
+SpellHealIntent how much hit points does {Spell} spell restore at level {SlotLevel}
+SpellHealIntent how much hit points does {Spell} spell replenish at level {SlotLevel}
+SpellHealIntent how much hit points does a level {SlotLevel} {Spell} do
+SpellHealIntent how much hit points does a level {SlotLevel} {Spell} restore
+SpellHealIntent how much hit points does a level {SlotLevel} {Spell} replenish
+SpellHealIntent how much hit points does an level {SlotLevel} {Spell} spell do
+SpellHealIntent how much hit points does an level {SlotLevel} {Spell} spell restore
+SpellHealIntent how much hit points does an level {SlotLevel} {Spell} spell replenish
+SpellHealIntent how much hit points does an level {SlotLevel} {Spell} do
+SpellHealIntent how much hit points does an level {SlotLevel} {Spell} restore
+SpellHealIntent how much hit points does an level {SlotLevel} {Spell} replenish
+SpellHealIntent how much healing does {Spell} do at level {SlotLevel}
+SpellHealIntent how much healing does {Spell} restore at level {SlotLevel}
+SpellHealIntent how much healing does {Spell} replenish at level {SlotLevel}
+SpellHealIntent how much health does {Spell} do at level {SlotLevel}
+SpellHealIntent how much health does {Spell} restore at level {SlotLevel}
+SpellHealIntent how much health does {Spell} replenish at level {SlotLevel}
+SpellHealIntent how much h. p. does {Spell} do at level {SlotLevel}
+SpellHealIntent how much h. p. does {Spell} restore at level {SlotLevel}
+SpellHealIntent how much h. p. does {Spell} replenish at level {SlotLevel}
+SpellHealIntent how much hit points does {Spell} do at level {SlotLevel}
+SpellHealIntent how much hit points does {Spell} restore at level {SlotLevel}
+SpellHealIntent how much hit points does {Spell} replenish at level {SlotLevel}
+SpellHealIntent how much healing does the spell {Spell} do at level {SlotLevel}
+SpellHealIntent how much healing does {Spell} do at level {SlotLevel}
+SpellHealIntent how much health does the spell {Spell} do at level {SlotLevel}
+SpellHealIntent how much health does {Spell} do at level {SlotLevel}
+SpellHealIntent how much h. p. does the spell {Spell} do at level {SlotLevel}
+SpellHealIntent how much h. p. does {Spell} do at level {SlotLevel}
+SpellHealIntent how much hit points does the spell {Spell} do at level {SlotLevel}
+SpellHealIntent how much hit points does {Spell} do at level {SlotLevel}
+SpellHealIntent how much healing does {Spell} do at player level {SlotLevel}
+SpellHealIntent how much health does {Spell} do at player level {SlotLevel}
+SpellHealIntent how much h. p. does {Spell} do at player level {SlotLevel}
+SpellHealIntent how much hit points does {Spell} do at player level {SlotLevel}
+SpellHealIntent what healing does a level {SlotLevel} {Spell} healing
+SpellHealIntent what healing does a level {SlotLevel} {Spell} health
+SpellHealIntent what healing does an level {SlotLevel} {Spell} healing
+SpellHealIntent what healing does an level {SlotLevel} {Spell} health
+SpellHealIntent what health does a level {SlotLevel} {Spell} healing
+SpellHealIntent what health does a level {SlotLevel} {Spell} health
+SpellHealIntent what health does an level {SlotLevel} {Spell} healing
+SpellHealIntent what health does an level {SlotLevel} {Spell} health
+SpellHealIntent what h. p. does a level {SlotLevel} {Spell} healing
+SpellHealIntent what h. p. does a level {SlotLevel} {Spell} health
+SpellHealIntent what h. p. does an level {SlotLevel} {Spell} healing
+SpellHealIntent what h. p. does an level {SlotLevel} {Spell} health
+SpellHealIntent what hit points does a level {SlotLevel} {Spell} healing
+SpellHealIntent what hit points does a level {SlotLevel} {Spell} health
+SpellHealIntent what hit points does an level {SlotLevel} {Spell} healing
+SpellHealIntent what hit points does an level {SlotLevel} {Spell} health
+
+SpellsIntent what is {Spell}
+SpellsIntent whats {Spell}
+SpellsIntent what are the effects of {Spell}
+SpellsIntent look up {Spell}
+SpellsIntent tell me about {Spell}
+SpellsIntent I forget what {Spell} is
+SpellsIntent I forget what {Spell} does
+SpellsIntent to get information on {Spell}
+SpellsIntent to get info on {Spell}
+SpellsIntent get information on {Spell}
+SpellsIntent get info on {Spell}
+SpellsIntent about {Spell}
+SpellsIntent how does {Spell} work
+SpellsIntent what does {Spell} do
+SpellsIntent what does {Spell} affect
+SpellsIntent what does {Spell} mean
+SpellsIntent what is {Spell}
+SpellsIntent what is {Spell} spell
+SpellsIntent what is {Attribute} do {Spell}
+SpellsIntent what is {Attribute} of {Spell}
+SpellsIntent whats {Spell} do
+SpellsIntent whats {Spell} affect
+SpellsIntent whats {Spell} mean
+SpellsIntent whats {Attribute} of {Spell}
+SpellsIntent what does the {Spell} do
+SpellsIntent what does the {Spell} mean
+SpellsIntent what does the {Attribute} of {Spell} do
+SpellsIntent what does the {Attribute} of {Spell} mean
+SpellsIntent lookup {Spell}
+SpellsIntent lookup {Attribute} of {Spell}
+SpellsIntent tell me about {Spell}
+SpellsIntent tell me about {Attribute} of {Spell}
+SpellsIntent I forgot what {Spell} does
+SpellsIntent I forgot what {Spell} does to me
+SpellsIntent I forgot what {Spell} does to us
+SpellsIntent I forgot what {Spell} does to someone
+SpellsIntent I forgot what {Spell} does to a player
+SpellsIntent I forgot what {Spell} affects
+SpellsIntent I forgot what {Spell} means
+SpellsIntent I forgot what {Spell} is
+SpellsIntent I forgot what {Attribute} of {Spell} means
+SpellsIntent I forgot what {Attribute} of {Spell} does
+SpellsIntent I forgot what {Attribute} of {Spell} is
+SpellsIntent get information on {Spell}
+SpellsIntent get information on {Attribute} of {Spell}
+SpellsIntent how does {Spell} work
+SpellsIntent how does {Spell} affect me
+SpellsIntent how does {Spell} affect us
+SpellsIntent how does {Spell} affect someone
+SpellsIntent how does {Spell} affect a player
+SpellsIntent how does {Attribute} of {Spell} affect me
+SpellsIntent how does {Attribute} of {Spell} affect us
+SpellsIntent how does {Attribute} of {Spell} affect a player
+SpellsIntent how does {Attribute} of {Spell} affect someone
+SpellsIntent how does {Attribute} of {Spell} affect a creature
+SpellsIntent get info on {Spell}
+SpellsIntent get info on {Attribute} of {Spell}
+SpellsIntent about {Spell}
+SpellsIntent about {Attribute} of {Spell}
+SpellsIntent get the {Spell}
+SpellsIntent get the {Attribute} of {Spell}
+SpellsIntent to get info on {Spell}
+SpellsIntent to get info on {Spell} spell
+SpellsIntent to get info on {Attribute} of {Spell}
+SpellsIntent to get information on {Spell}
+SpellsIntent to get information on {Spell} spell
+SpellsIntent to get information on {Attribute} of {Spell}
+SpellsIntent tell me what {Spell} does
+SpellsIntent tell me what {Spell} does to me
+SpellsIntent tell me what {Spell} does to us
+SpellsIntent tell me what {Spell} does to someone
+SpellsIntent tell me what {Spell} does to a player
+SpellsIntent tell me what {Spell} affects
+SpellsIntent tell me what {Spell} means
+SpellsIntent tell me what {Attribute} of {Spell} does
+SpellsIntent tell me what {Attribute} of {Spell} means
+SpellsIntent tell me what {Attribute} of {Spell} affects
+SpellsIntent tell me what the {Spell} does
+SpellsIntent tell me what the {Spell} does to me
+SpellsIntent tell me what the {Spell} does to us
+SpellsIntent tell me what the {Spell} does to someone
+SpellsIntent tell me what the {Spell} does to a player
+SpellsIntent tell me what the {Spell} affects
+SpellsIntent tell me what the {Attribute} of {Spell} is
+SpellsIntent tell me how {Spell} works
+SpellsIntent tell me how {Spell} affects me
+SpellsIntent tell me how {Spell} affects us
+SpellsIntent tell me how {Spell} affects someone
+SpellsIntent tell me how {Spell} affects a player
+SpellsIntent tell me how {Attribute} of {Spell} works
+SpellsIntent tell me how {Attribute} of {Spell} affects me
+SpellsIntent tell me how {Attribute} of {Spell} affects us
+SpellsIntent tell me how {Attribute} of {Spell} affects someone
+SpellsIntent tell me how {Attribute} of {Spell} affects a player
+SpellsIntent tell me how {Attribute} of {Spell} affects a creature
+SpellsIntent tell us whats {Spell} do
+SpellsIntent tell us whats {Spell} do to me
+SpellsIntent tell us whats {Spell} do to us
+SpellsIntent tell us whats {Spell} do to someone
+SpellsIntent tell us whats {Spell} do to a player
+SpellsIntent tell us whats {Spell} affect
+SpellsIntent tell us whats {Spell} mean
+SpellsIntent tell us whats the {Attribute} of {Spell}
+SpellsIntent tell us what is {Spell}
+SpellsIntent tell us what is the {Attribute} of {Spell}
+SpellsIntent tell us what the {Spell} does
+SpellsIntent tell us what the {Spell} does to me
+SpellsIntent tell us what the {Spell} does to us
+SpellsIntent tell us what the {Spell} does to someone
+SpellsIntent tell us what the {Spell} does to a player
+SpellsIntent tell us what the {Spell} affects
+SpellsIntent tell us what the {Spell} mean
+SpellsIntent tell us what the {Attribute} of {Spell} is
+SpellsIntent tell us how {Spell} works
+SpellsIntent tell us how {Spell} affects me
+SpellsIntent tell us how {Spell} affects us
+SpellsIntent tell us how {Spell} affects someone
+SpellsIntent tell us how {Spell} affects a player
+SpellsIntent I forgot what the {Spell} does
+SpellsIntent I forgot what the {Spell} does to me
+SpellsIntent I forgot what the {Spell} does to us
+SpellsIntent I forgot what the {Spell} does to someone
+SpellsIntent I forgot what the {Spell} does to a player
+SpellsIntent I forgot what the {Spell} does to a creature
+SpellsIntent I forgot what the {Spell} affects
+SpellsIntent I forgot what the {Spell} means
+SpellsIntent I forgot what the {Attribute} of {Spell} is
+SpellsIntent what is the {Spell} spell
+SpellsIntent what is the {Attribute} of {Spell}
+SpellsIntent what is the {Attribute} of {Spell} mean
+SpellsIntent what is the {Attribute} of {Spell} do
+SpellsIntent what is the {Attribute} of {Spell} affect
+SpellsIntent for {Spell}
+SpellsIntent for {Spell} spell
+SpellsIntent for {Attribute} of {Spell}
+SpellsIntent what is the {Attribute} of {Spell}
+SpellsIntent whats the {Attribute} of {Spell}
+SpellsIntent to get the {Attribute} of {Spell}
+SpellsIntent get the {Attribute} of {Spell}
+SpellsIntent what {Attribute} do I need to cast {Spell}
+SpellsIntent what are the {Attribute} to cast {Spell}
+SpellsIntent what are the {Attribute} needed to cast {Spell}
+SpellsIntent what is the {Attribute} of {Spell}
+SpellsIntent whats the {Attribute} of {Spell}
